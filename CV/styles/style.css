@@ -1,0 +1,111 @@
+body {
+    background-color: #018383;
+}
+
+* {
+    color: black;
+}
+
+#perfil {
+    margin: 10px 0px 30px 10px;
+    border: none;
+    padding: none;
+    float: left;
+    width: 20%;
+}
+
+#menú {
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    line-height: 40px;
+    list-style-type: decimal;
+}
+
+#contenido {
+    float: right;
+    width: 75%;
+}
+
+.seccion {
+    margin: 10px 1% 5% 10px;
+    border: 3px solid #42e6a4;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #02a8a8;
+}
+
+#formacion {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+
+ol em {
+    font-style: italic;
+}
+
+.experiencia {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #f5dea3;
+    border-bottom-style: dotted;
+}
+
+h2 {
+    font-family: 'Merriweather', serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+}
+
+h6 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 12px;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+
+ul#datos-personales li {
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    border-bottom-style: solid;
+    list-style-type: none;
+}
+
+ul strong {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+}
+
+ol {
+    list-style-type: none;
+}
+
+ol em {
+    font-family: 'Poppins', sans-serif;
+    font-style: italic; 
+}
+
+.portfolio {
+    list-style: none;
+}
+
+.portfolio img {
+    float: left;
+}
+
+#Espacio {
+    margin-top: 330px;
+}
